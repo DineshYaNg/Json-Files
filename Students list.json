@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": 0,
+      "name": "abc",
+      "level": 3,
+      "score":400,
+      "location": "delhi"
+    },
+    {
+      "id": 2,
+      "name": "xyz",
+      "level": 5,
+      "score":345,
+      "location": "chennai"
+    },
+    {
+      "id": 3,
+      "name": "ttt",
+      "level": 45,
+      "score":316,
+      "location": "bangalore"
+    }
+  ]
+}
